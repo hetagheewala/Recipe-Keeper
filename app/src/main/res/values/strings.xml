@@ -1,0 +1,55 @@
+<resources>
+
+    <string name="app_name">Recipe Keeper</string>
+
+    <!-- Menu -->
+    <string name="menu_addrecipe">Add Recipe</string>
+    <string name="menu_shoppinglist">Shopping List</string>
+    <string name="menu_about">About</string>
+    <string name="menu_about_text">\nDeveloped By, Heta Gheewala</string>
+
+    <!-- Overview -->
+    <string name="overview_recipe">Enter Recipe Name</string>
+    <string name="overview_preptime">Enter Prep Time</string>
+    <string name="overview_cooktime">Enter Cooking Time</string>
+    <string name="recipe">Recipe:</string>
+    <string name="preptime">Prep Time (hh:mm):</string>
+    <string name="cooktime">Cooking Time (hh:mm):</string>
+
+    <!-- Ingredient -->
+    <string name="addingredientsqty">Qty</string>
+    <string name="addmeasuresstr">Measure</string>
+    <string name="addingredientsstr">Ingredient</string>
+    <string name="confirmIngredientMessage">This will permanently delete the Ingredient</string>
+    <string name="servesize">Enter desired serving size</string>
+
+    <!-- Direction -->
+    <string name="adddirectionstr">Add direction</string>
+    <string name="confirmDirectionMessage">This will permanently delete the Direction</string>
+
+    <!-- Button -->
+    <string name="save">Save</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+
+    <!-- Database -->
+    <string name="errorButton">OK</string>
+    <string name="errorTitle">Recipe Name is Required</string>
+    <string name="errorMessage">You must enter a recipe name</string>
+    <string name="confirmTitle">Are You Sure?</string>
+    <string name="confirmMessage">This will permanently delete the recipe</string>
+
+    <!-- recipe List-->
+    <string name="no_recipe">No Recipe Exists!!</string>
+
+    <!-- Shopping List -->
+    <string name="shoppinglist">Shopping List</string>
+    <string name="no_Shopping">Nothing for Shopping!!</string>
+    <string name="errorTitleShopping">No Ingredient</string>
+    <string name="errorMessageShopping">Ingredient requires to create Shopping List</string>
+    <string name="confirmTitleShopping">Are You Sure?</string>
+    <string name="confirmMessageShopping">This will permanently delete the Shopping List</string>
+
+</resources>
